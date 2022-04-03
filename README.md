@@ -15,31 +15,31 @@ The Goalsetter App is a React Toolkit Application that allows anyone to register
 - Exposure to React Toolkit (and extensive use of Reducers)
 - Exposure to JSON Web Tokens and Authentication
 - Cleaner setup of RESTful API
-- Postman
+- Practice with Postman
 
 # Final Product
 
 ### Mobile View
 
-!["Mobile View"]()
+!["Mobile View"](https://github.com/tackpablo/goalsetter-app/blob/main/public/images/Goal%20Page.png)
 
 # Features
 
 ### Register As New User
 
-!["Register As New User"]()
+!["Register As New User"](https://github.com/tackpablo/goalsetter-app/blob/main/public/images/Register.gif)
 
 ### Login As New User
 
-!["Login As New User"](https://github.com/tackpablo/scheduler/blob/master/public/images/README%20Images/Editing%20Interview.gif)
+!["Login As New User"](https://github.com/tackpablo/goalsetter-app/blob/main/public/images/Login.gif)
 
 ### Logout
 
-!["Logout"]()
+!["Logout"](https://github.com/tackpablo/goalsetter-app/blob/main/public/images/Logout.gif)
 
 ### Add and Remove Goals
 
-!["Add and Remove Goals"]()
+!["Add and Remove Goals"](https://github.com/tackpablo/goalsetter-app/blob/main/public/images/Add-Remove%20Goals.gif)
 
 # Getting Started
 
@@ -62,11 +62,11 @@ npm run server
 
 # Dependencies
 
-- axios
-- bcrypths
+- Axios
+- bcryptjs
 - colors
 - jsonwebtoken
-- Mongoose
+- mongoose
 
 # Dev
 
